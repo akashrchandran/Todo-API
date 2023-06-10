@@ -245,4 +245,5 @@ def home(request):
     <li><a href="/api/complete">/api/complete</a></li>
     <li><a href="/api/delete">/api/delete</a></li>
     </ul>
+    <h2>Visit <a href="https://github.com/akashrchandran/Todo-API">github repository</a> for more info</h2>
     ''')
